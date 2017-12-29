@@ -7,7 +7,7 @@
 
 # A Parody of the famed Pwn2Own 
 
-This repository/project is a parody of the famed Pwn2Own contest held at the pretigous cansecwest conference every year, featuring targets that span on a wide varitey on a wide varity of platforms and host architectures such as x86,x64,arm,arm64,trustzone,etc. Re2Own is a parody of Pwn2Own since instead of being l33t and finding our bugs and exploits we reverse engineer exploits and mitigation bypasses used during that year's Pwn2Own to modify/recreate them or we  just enjoy the pwnage ;>). Note we just don't focus on bugs exclusive to Pwn2Own but legendary/intersting bugs/exploits in general
+This repository/project is a parody of the famed Pwn2Own contest held at the pretigous cansecwest conference every year, featuring targets that span on a wide varitey on a wide varity of platforms and host architectures such as x86,x64,arm,arm64,trustzone,etc. Re2Own is a parody of Pwn2Own since instead of being l33t and finding our bugs and exploits we reverse engineer exploits and mitigation bypasses used during that year's Pwn2Own to modify/recreate them or we  just enjoy the pwnage ;>). Note we just don't focus on bugs exclusive to Pwn2Own but bugs/exploits in general.
 
 
 # Disclaimer
