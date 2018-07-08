@@ -5,7 +5,7 @@
 
 
 
-# A Parody of the famed Pwn2Own 
+# A Paordy of Pwn2Own 
 
 This repository/project is a parody of the famed Pwn2Own contest held at the prestigious cansecwest conference every year, featuring targets that span on a wide variety on a wide variety of platforms and host architectures. Much of the project will be focused on understanding much of the cutting edge aspects of Vulnerability Research from the view of a Reverse Engineer. Much of the things that this respiratory will be focused on the more recent trends of Vulnerability Research not limited but including to analysis/workthrough's of paper's attempting to extend upon recent advances, etc.
 
